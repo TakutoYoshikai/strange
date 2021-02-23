@@ -1,6 +1,6 @@
 # strange
 
-strange is a checker of character range of any string.
+strange is a detector of character range of any string.
 
 ### Usage
 **install**
